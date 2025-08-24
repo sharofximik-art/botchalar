@@ -5,7 +5,8 @@ import random
 import os
 import re
 import uuid
-
+import logging
+from aiogram import executor
 import google.generativeai as genai
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import CommandStart, Command
