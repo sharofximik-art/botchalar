@@ -3,3 +3,5 @@ fastapi
 uvicorn[standard]
 google-generativeai
 pytelegrambotapi
+google-generativeai
+Pillow
