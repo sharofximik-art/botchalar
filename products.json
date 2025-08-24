@@ -1,0 +1,49 @@
+[
+    {
+        "id": "guide",
+        "button_text": "📘 O'quv Qo'llanma",
+        "image": "images/guides.jpg",
+        "samples": [
+            {
+                "title": "Kirish qismidan namuna",
+                "file_name": "guide_intro_sample.pdf"
+            },
+            {
+                "title": "Asosiy qismdan namuna",
+                "file_name": "guide_main_sample.pdf"
+            }
+        ]
+    },
+    {
+        "id": "identifier",
+        "button_text": "🆔 Identifikator",
+        "image": "images/identifier.jpg",
+        "samples": [
+            {
+                "title": "1-qism: Organik kimyo namuna",
+                "file_name": "identifier_part1.pdf"
+            },
+            {
+                "title": "2-qism: Anorganik kimyo namuna",
+                "file_name": "identifier_part2.pdf"
+            }
+        ]
+    },
+    {
+        "id": "tests_collection",
+        "button_text": "📚 Testlar To'plami",
+        "image": "images/guides.jpg",
+        "samples": [
+            {
+                "title": "Testlar to'plamidan namuna",
+                "file_name": "tests_collection_sample.pdf"
+            }
+        ]
+    },
+    {
+        "id": "qa_guide",
+        "button_text": "❓ Savol-Javob Qo'llanma",
+        "image": "images/guides.jpg",
+        "samples": []
+    }
+]
